@@ -1,0 +1,12 @@
+#include <iostream>
+
+
+int main() {
+
+    std::cout << "Shoes nike"<<"           1999" << std::endl;
+    std::cout << "Sweatshirt nike 1995"<<" 1100"<<std::endl;
+    std::cout << "Hat with nike logo"<<"   1999"<<std::endl;
+
+
+    return 0;
+}
