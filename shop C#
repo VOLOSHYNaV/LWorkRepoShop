@@ -1,0 +1,8 @@
+using System;
+class SHOP {
+  static void Main() {
+    Console.WriteLine("Shoes nike      - 2655");
+    Console.WriteLine("Hat nike        - 1230");
+    Console.WriteLine("Sweatshirt nike - 1995");
+  }
+}
